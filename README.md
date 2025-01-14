@@ -1,0 +1,1 @@
+This repository demonstrates a common ActionScript 3 error and its solution. The bug involves attempting to call a method on a variable that might not be defined, leading to a compiler error. The solution includes proper type checking and null checks to prevent this.
